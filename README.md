@@ -11,4 +11,4 @@ This program supports basic arithmetic operations (+, -, *, /) and evaluates exp
 - [Code Academy](https://www.codecademy.com/resources/docs/java/strings/isEmpty): For understanding the doc string to put on isEmpty().
 - __GPT Help__ : Prompt - "Fix the docstring and fill in the empty docstring and improve them"
 
-![images (2)](https://github.com/sobantahir/ReversePolishNotation/assets/171970703/69568a21-15a3-4376-97a7-8cf76c5f5b28)
+![6a00d8341d3df553ef0133f570980b970b-600wi](https://github.com/sobantahir/ReversePolishNotation/assets/171970703/c457698d-12a5-41f9-ba88-df6ad1739179)
